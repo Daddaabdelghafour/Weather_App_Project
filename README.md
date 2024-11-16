@@ -2,7 +2,7 @@ Les amis juste pour la configuration javafx , pour qu'elle soit compatible pour 
 mais pour l'équipe qui va travailler sur la partie des interfaces , vous devez suivre les étapes suivantes : 
 
 # remplacer le chemin ici par celle de l'interface principale :
-
+![first]["first.png"]
 
 # ouvrir le terminal: 
 
