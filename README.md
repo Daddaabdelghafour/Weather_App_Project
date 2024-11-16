@@ -19,7 +19,8 @@ S'il y'a des problèmes , on va essayer de les fixer , mais pour le moment , c'e
 
 
 # Pour les Branches :
-J'ai crée les trois branches qu'on a fixer lors de la dernière réunion 
+J'ai crée les trois branches qu'on a fixer lors de la dernière réunion .
+
 Pour basculer de la branche principale (main) , vers la branche que vous souhaitez :
 
 ![image](https://github.com/user-attachments/assets/015f990a-cb02-4c8b-8167-d9c888792ec5)
