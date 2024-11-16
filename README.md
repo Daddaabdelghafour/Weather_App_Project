@@ -11,6 +11,8 @@ mais pour l'équipe qui va travailler sur la partie des interfaces , vous devez 
 # l'interface s'affiche
 ![fist](fourth.png)
 
-Donc , c'est à partir de l'interface principale qu'on va faire des appels aux autres interfaces , puisque JAVAFX est configuré pour cette interface principale. 
+Donc , c'est à partir de l'interface principale qu'on va faire des appels aux autres interfaces , puisque JAVAFX est configuré pour cette interface principale.
+Pour Scene Builder , je pense que chacun de personnes qui s'occupent de la partie des interfaces doivent l'installer séparemment dans la machine et ca va pas poser des problèmes .
+
 Comme ca , On peut travailler d'une manière unifiée sans conflit inchaalah si on a fusionner les repos après ^^ 
 S'il y'a des problèmes , on va essayer de les fixer , mais pour le moment , c'est l'idée de base ^^
