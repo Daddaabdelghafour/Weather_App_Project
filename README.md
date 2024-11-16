@@ -2,11 +2,14 @@ Les amis juste pour la configuration javafx , pour qu'elle soit compatible pour 
 mais pour l'équipe qui va travailler sur la partie des interfaces , vous devez suivre les étapes suivantes : 
 
 # remplacer le chemin ici par celle de l'interface principale :
-![first][first.png]
+![first](first.png)
 
 # ouvrir le terminal: 
-
+![first](second.png)
 # saisir la commande suivante :
+![first](third.png)
+# l'interface s'affiche
+![fist](fourth.png)
 
 
 Comme ca , On peut travailler d'une manière unifiée sans conflit inchaalah si on a fusionner les repos après ^^ 
