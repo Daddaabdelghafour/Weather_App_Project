@@ -19,7 +19,7 @@ S'il y'a des problèmes , on va essayer de les fixer , mais pour le moment , c'e
 
 
 # Pour les Branches :
-J'ai crée les trois branches qu'on a fixer lors de la dernière réunion .
+J'ai crée une branche par personne.
 
 Pour basculer de la branche principale (main) , vers la branche que vous souhaitez :
 
