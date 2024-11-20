@@ -16,3 +16,19 @@ Pour Scene Builder , je pense que chacun de personnes qui s'occupent de la parti
 
 Comme ca , On peut travailler d'une manière unifiée sans conflit inchaalah si on a fusionner les repos après ^^ 
 S'il y'a des problèmes , on va essayer de les fixer , mais pour le moment , c'est l'idée de base ^^
+
+
+# Pour les Branches :
+J'ai crée les trois branches qu'on a fixer lors de la dernière réunion .
+
+Pour basculer de la branche principale (main) , vers la branche que vous souhaitez :
+
+![image](https://github.com/user-attachments/assets/015f990a-cb02-4c8b-8167-d9c888792ec5)
+
+# c'est preferable d'utiliser pull avant de débuter le travail , pour avoir une version compatible avec le repo git  : 
+![image](https://github.com/user-attachments/assets/7f7352f6-df64-416e-83ce-170c711ed22c)
+
+
+
+
+
