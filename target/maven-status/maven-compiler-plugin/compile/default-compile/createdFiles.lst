@@ -1,0 +1,8 @@
+Graphs\WindGraph.class
+Apis\CityValidationApi.class
+Apis\WeatherApi.class
+Apis\GeolocationApi.class
+Graphs\TemperatureGraph.class
+JavaProject\WeatherApp\App.class
+Apis\IpApi.class
+Graphs\RainGraph.class
