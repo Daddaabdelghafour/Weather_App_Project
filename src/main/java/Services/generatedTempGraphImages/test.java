@@ -1,4 +1,4 @@
-package generatedTempGraphImages;
+package Services.generatedTempGraphImages;
 
 public class test {
 

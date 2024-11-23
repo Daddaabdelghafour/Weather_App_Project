@@ -1,4 +1,4 @@
-package Services.Graphs;
+package Model;
 
 public class test {
 

@@ -1,4 +1,4 @@
-package generatedRainGraphImages;
+package Services.generatedRainGraphImages;
 
 public class test {
 
