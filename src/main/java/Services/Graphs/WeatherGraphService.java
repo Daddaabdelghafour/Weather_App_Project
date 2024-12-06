@@ -10,8 +10,8 @@ import java.sql.SQLException;
 
 public class WeatherGraphService {
 
-    private WeatherApi weatherApi;
-    private GraphManager graphManager;
+    public WeatherApi weatherApi;
+    public GraphManager graphManager;
     
     // Initialize graph classes
     RainGraph rainGraph = new RainGraph();

@@ -12,7 +12,7 @@ public class CityValidationTest {
         CityValidationApi cityApi = new CityValidationApi();
         boolean result = cityApi.isCityValid("Marrakech"); // Tester une ville existante
         assertNotNull(result, "Le résultat de la validation de la ville ne doit pas être null.");
-        System.out.println("Test Marrakech: " + result);
+        System.out.println("Test de  Marrakech: " + result);
     }
 
     @Test
